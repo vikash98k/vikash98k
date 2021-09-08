@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Karodiya</h1>
-<h3 align="center">Python|Django Developer</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikash98k](https://github.com/vikash98k)
 
