@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vikashdocs1998@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JKmtITLTnxAzkr_4JbwtBRtlOJqdQgMuC1ZWYKoqfas/edit?usp=sharing](https://drive.google.com/file/d/1ixfooq0uAXlIaFcGp2UgjTPFqyFYokCp/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1JKmtITLTnxAzkr_4JbwtBRtlOJqdQgMuC1ZWYKoqfas/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
