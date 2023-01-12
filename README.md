@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikash98k](https://github.com/vikash98k)
 
-- 📄 My Portfolio [https://vikash98k.github.io/vikash_portfolio/home.html](https://vikash98k.github.io/vikash_portfolio/home.html)
-
 - 📫 How to reach me **vikashdocs1998@gmail.com**
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1JKmtITLTnxAzkr_4JbwtBRtlOJqdQgMuC1ZWYKoqfas/view)
