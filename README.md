@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikash98k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash98k" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vikash98k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikash98k" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vikash1998k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikash98k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikash98k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikash98k" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vikash98/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikash98/profile/" height="30" width="40" /></a>
 </p>
